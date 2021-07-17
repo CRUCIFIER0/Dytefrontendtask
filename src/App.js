@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import Routing from "./route";
+import Routing from "./Routing";
 import Live from "./components/Live";
 import useLocalStorage from "./hooks/useLocalStorage";
 import Explorer from "./components/Explorer";
