@@ -7,5 +7,6 @@
 > TO run this above project.
 > 
 > npm install
+>
 > npx react-native run-android
 
